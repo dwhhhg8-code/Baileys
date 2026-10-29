@@ -1,30 +1,27 @@
 {
-  "name": "baileysxs",
+  "name": "sonic-baileys",
   "version": "9.6.0-rc1",
-  "description": "baileysxs - Librería JavaScript avanzada para interactuar con la API de WhatsApp Web usando WebSocket. Fork mejorado de Baileys con mensajes enriquecidos, interactivos y reporting tokens.",
+  "description": "مكتبة برمجية متقدمة لتطوير بوتات واتساب ومبنية خصيصاً لتشغيل وصيانة 𝐒𝐎𝐍𝐈𝐂𝔹𝕆𝕋-𝕄𝔻",
   "keywords": [
     "whatsapp",
     "whatsapp-bot",
     "whatsapp-api",
     "baileys",
-    "baileysxs",
+    "sonicbot-md",
     "multi-device",
     "websocket",
-    "interactive-messages",
-    "rich-response",
-    "buttons",
-    "carousel"
+    "interactive-messages"
   ],
-  "homepage": "https://github.com/Neykoor/BaileysXS",
+  "homepage": "https://github.com/haitham/BaileysXS#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Neykoor/BaileysXS.git"
+    "url": "git+https://github.com/haitham/BaileysXS.git"
   },
   "bugs": {
-    "url": "https://github.com/Neykoor/BaileysXS/issues"
+    "url": "https://github.com/haitham/BaileysXS/issues"
   },
   "license": "MIT",
-  "author": "Neykoor",
+  "author": "haitham",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
